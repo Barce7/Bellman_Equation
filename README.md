@@ -1,2 +1,2 @@
 # macro_code
-codes for macroeconomics
+codes for Bellman Equation
